@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard analyzing workforce metrics, performance, turnover, and compensation patterns to drive strategic HR decisions.
 
-**[📊 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY0NGFkNjEtZWZjMy00MGRkLTkzM2YtM2E4NDExOTQxZDdhIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D)** | **[📄 Documentation](./documentation/HR_Analysis.xlsm)**
+**[📊 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY0NGFkNjEtZWZjMy00MGRkLTkzM2YtM2E4NDExOTQxZDdhIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D)** | **[📄 Documentation](./documentation/README.md)**
 
 ---
 
